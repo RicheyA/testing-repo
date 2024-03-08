@@ -10,4 +10,5 @@ Text.
 
 Text for section 2
 
-## Section 3
+## Local Development
+1. Open index.html in your browser.
