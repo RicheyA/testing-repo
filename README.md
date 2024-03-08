@@ -9,3 +9,5 @@ Text.
 ## Section 2
 
 Text for section 2
+
+## Section 3
